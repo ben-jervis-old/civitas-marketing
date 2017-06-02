@@ -9,6 +9,7 @@ body {
 }
 p {
   font-size: 20px;
+	line-height: 150%;
 }
 p.small {
   font-size: 16px;
@@ -19,6 +20,13 @@ a:focus,
 a:active,
 a.active {
   color: #18BC9C;
+}
+.success a,
+.success a:hover,
+.success a:focus,
+.success a:active,
+.success a.active {
+  color: #2C3E50;
 }
 h1,
 h2,

@@ -8,10 +8,14 @@
 				</div>
 				<div class="row">
 						<div class="col-lg-4 col-lg-offset-2">
-								<p>We're some students from UOW.</p>
+								<p>
+									The <span class="inline-brand">civitasCRM</span> team are a group of four students from the <a href="http://www.uow.edu.au/index.html">University of Wollongong</a>'s School of Computing and Information Technology.
+								</p>
 						</div>
 						<div class="col-lg-4">
-								<p>Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!</p>
+								<p>
+									The system being developed constitutes a year long capstone project for subject CSIT321 undertaken by all final year students.
+								</p>
 						</div>
 				</div>
 		</div>
