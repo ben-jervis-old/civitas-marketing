@@ -44,7 +44,7 @@
 				</div>
 				<h4>Contact</h4>
 				<p>
-					The contact system allows administrators to contact all members in the congregation individually, or by groups. This allows targeted messages to a select group of members, targeting those to whom the message is relevant, while still supporting organisation-wide contact. Less accidental spam for users, less work for you.
+					The contact system allows administrators to contact all members in the congregation individually, or by groups. This allows targeted messages to a select group of members, targeting those to whom the message is relevant, while still supporting organisation-wide contact. Less unintended spam for users, less work for you.
 				</p>
 			</div>
 			<div class="col-md-4">

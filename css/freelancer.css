@@ -51,6 +51,10 @@ img.inline-img {
 	font-size: 1.1em;
 }
 
+.col-centered {
+	margin: 0 auto;
+}
+
 .namebubble {
 	border-radius: 50%;
 	background: #18bc9c;
@@ -66,8 +70,19 @@ img.inline-img {
 	justify-content: center;
 }
 
-.namebubble-link:hover {
+ul a.btn-outline-text {
+	border-radius: 15px;
+	padding: 5px 15px;
+	color: white;
+}
+
+ul.list-inline {
+	line-height: 2.5;
+}
+
+.namebubble-link:hover, .btn-outline-text:hover {
 	text-decoration: none;
+	color: #2C3E50
 }
 
 .namebubble-link .namebubble:hover {

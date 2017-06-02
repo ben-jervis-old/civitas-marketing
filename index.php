@@ -27,8 +27,10 @@
 
 		<!-- Features Section -->
 		<?php require_once 'partials/features.php'; ?>
-		<!-- Design Approach Section -->
 
+		<!-- Design Approach Section -->
+		<?php require_once 'partials/design.php'; ?>
+		
 		<!-- Team Grid Section -->
     <?php require_once "partials/teamlist.php"; ?>
 
