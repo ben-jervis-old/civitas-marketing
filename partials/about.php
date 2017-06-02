@@ -9,7 +9,7 @@
 				<div class="row">
 						<div class="col-lg-4 col-lg-offset-2">
 								<p>
-									The <span class="inline-brand">civitasCRM</span> team are a group of four students from the <a href="http://www.uow.edu.au/index.html">University of Wollongong</a>'s School of Computing and Information Technology.
+									The <?php inline_brand(); ?> team are a group of four students from the <a href="http://www.uow.edu.au/index.html">University of Wollongong</a>'s School of Computing and Information Technology.
 								</p>
 						</div>
 						<div class="col-lg-4">

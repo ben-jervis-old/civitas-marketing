@@ -47,7 +47,11 @@
 												</div>
 										</div>
 								</form>
+								<p class="text-center">
+									Or, send us an email, at <a href="mailto:contact@civitascrm.com.au?subject=Website Enquiry">contact@civitascrm.com.au</a>
+								</p>
 						</div>
+
 				</div>
 		</div>
 </section>

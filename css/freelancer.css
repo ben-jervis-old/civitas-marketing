@@ -74,6 +74,12 @@ img.inline-img {
 	opacity: 0.8;
 }
 
+.icon-holder {
+	text-align: center;
+	font-size: 9em;
+	color: #2C3E50;
+}
+
 hr.star-light,
 hr.star-primary {
   padding: 0;

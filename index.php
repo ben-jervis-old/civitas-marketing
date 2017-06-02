@@ -1,3 +1,8 @@
+<?php
+	function inline_brand() {
+		echo "<span class=\"inline-brand\">civitasCRM</span>";
+	}
+ ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -21,7 +26,7 @@
     <?php require_once 'partials/product.php'; ?>
 
 		<!-- Features Section -->
-
+		<?php require_once 'partials/features.php'; ?>
 		<!-- Design Approach Section -->
 
 		<!-- Team Grid Section -->
