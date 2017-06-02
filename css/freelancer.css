@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 body {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden;
 }
 p {
@@ -38,6 +38,33 @@ img.inline-img {
 	display: inline-block;
 }
 
+.inline-brand {
+	font-family: 'Signika';
+	font-size: 1.1em;
+}
+
+.namebubble {
+	border-radius: 50%;
+	background: #18bc9c;
+	color: white;
+	font-size: 2.2em;
+	width: 200px;
+	height: 200px;
+	text-align: center;
+	margin: 0 auto 25px auto;
+	padding: 0 15px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.namebubble-link:hover {
+	text-decoration: none;
+}
+
+.namebubble-link .namebubble:hover {
+	opacity: 0.8;
+}
 hr.star-light,
 hr.star-primary {
   padding: 0;
@@ -96,7 +123,7 @@ header .intro-text .name {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
-  font-size: 2em;
+  font-size: 4.75em;
 }
 header .intro-text .skills {
   font-size: 1.25em;
@@ -214,17 +241,17 @@ section.success {
     padding-top: 75px;
   }
 }
-#team .portfolio-item {
+.white-background .portfolio-item {
   margin: 0 0 15px;
   right: 0;
 }
-#team .portfolio-item .portfolio-link {
+.white-background .portfolio-item .portfolio-link {
   display: block;
   position: relative;
   max-width: 400px;
   margin: 0 auto;
 }
-#team .portfolio-item .portfolio-link .caption {
+.white-background .portfolio-item .portfolio-link .caption {
   background: rgba(24, 188, 156, 0.9);
   position: absolute;
   width: 100%;
@@ -234,10 +261,10 @@ section.success {
   -webkit-transition: all ease 0.5s;
   -moz-transition: all ease 0.5s;
 }
-#team .portfolio-item .portfolio-link .caption:hover {
+.white-background .portfolio-item .portfolio-link .caption:hover {
   opacity: 1;
 }
-#team .portfolio-item .portfolio-link .caption .caption-content {
+.white-background .portfolio-item .portfolio-link .caption .caption-content {
   position: absolute;
   width: 100%;
   height: 20px;
@@ -247,18 +274,18 @@ section.success {
   margin-top: -12px;
   color: white;
 }
-#team .portfolio-item .portfolio-link .caption .caption-content i {
+.white-background .portfolio-item .portfolio-link .caption .caption-content i {
   margin-top: -12px;
 }
-#team .portfolio-item .portfolio-link .caption .caption-content h3,
-#team .portfolio-item .portfolio-link .caption .caption-content h4 {
+.white-background .portfolio-item .portfolio-link .caption .caption-content h3,
+.white-background .portfolio-item .portfolio-link .caption .caption-content h4 {
   margin: 0;
 }
-#team * {
+.white-background * {
   z-index: 2;
 }
 @media (min-width: 767px) {
-  #team .portfolio-item {
+  .white-background .portfolio-item {
     margin: 0 0 30px;
   }
 }
