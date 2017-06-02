@@ -11,7 +11,7 @@
 <link href="resources/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
 <!-- Theme CSS -->
-<link href="css/freelancer.css?v=8" rel="stylesheet">
+<link href="css/freelancer.css?v=10" rel="stylesheet">
 
 <!-- Custom Fonts -->
 <link href="resources/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
