@@ -38,7 +38,7 @@
 				</a>
 				<h4 class="text-center">UI/UX Designer</h4>
 				<p class="text-center">
-				Third year Information Technology student.
+				Third year Information Technology student. Responsible for designing the front end, and ensuring the the user experience is perfect.
 				</p>
 			</div>
 			<div class="col-md-3">
@@ -49,7 +49,7 @@
 				</a>
 				<h4 class="text-center">Systems Analyst/QA</h4>
 				<p class="text-center">
-				Fourth year Information Technology student.
+				Fourth year Information Technology student. Responsible for testing the system, and assessing the application to make sure it meets the documented needs.
 				</p>
 			</div>
 		</div>
