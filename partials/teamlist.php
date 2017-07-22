@@ -38,7 +38,7 @@
 				</a>
 				<h4 class="text-center">UI/UX Designer</h4>
 				<p class="text-center">
-				Third year Information Technology student. Responsible for designing the front end, and ensuring the the user experience is perfect.
+				Third year Information Technology student. Responsible for designing the front end, and ensuring the user experience is perfect.
 				</p>
 			</div>
 			<div class="col-md-3">
